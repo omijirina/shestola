@@ -18,8 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
-La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
+  content : "Toda belleza después de los 35 se enfrenta a los primeros signos del envejecimiento: la piel se vuelve opaca y gris, las fibras de elastina se desintegran y la producción de colágeno se ralentiza. La marca francesa Lancome ha lanzado una línea de productos para el cuidado de la piel que hará que todos se vean lujosos a cualquier edad. Los ingredientes naturales se encargarán del estado de la epidermis."
   image : "images/about.png"
 
 
@@ -57,20 +56,15 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
-
+    - listItem : "la fórmula con un 17% de contenido de cera de abejas y cera de carnauba aprieta el óvalo del rostro, elimina la flacidez y no permite el "arrastre" del contorno;"
+    - listItem : "los ingredientes activos estimulan los procesos de regeneración y antienvejecimiento;"
+    - listItem : "- los ingredientes reducen la profundidad de los pliegues y previenen la aparición de nuevos, además de igualar el tono de la piel;"
 
 ######################## Promo Video ##########################
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Aplicar una capa gruesa sobre la piel limpia de rostro y cuello, después de 15 minutos eliminar el residuo con un algodón húmedo. Alternativamente, aplique una capa gruesa sobre el rostro y el cuello limpios, centrándose en las áreas problemáticas. Déjalo toda la noche."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -95,7 +89,7 @@ testimonial:
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventilo"
+    - name : "Riya Ventopo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
@@ -105,11 +99,11 @@ testimonial:
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "El resultado es notable. Lo uso por la noche. Vale la pena el dinero"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Rama Nertila"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
