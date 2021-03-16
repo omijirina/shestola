@@ -48,17 +48,7 @@ material:
       image : "images/material/material-4.png"
       content : "natural"
 
-########################### Advantage #########################
-advantage:
-  enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Consistencia de crema ultraligera y sin aceite"
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "la fórmula con un 17% de contenido de cera de abejas y cera de carnauba aprieta el óvalo del rostro, elimina la flacidez y no permite el "arrastre" del contorno;"
-    - listItem : "los ingredientes activos estimulan los procesos de regeneración y antienvejecimiento;"
-    - listItem : "- los ingredientes reducen la profundidad de los pliegues y previenen la aparición de nuevos, además de igualar el tono de la piel;"
+
 
 ######################## Promo Video ##########################
 video:
